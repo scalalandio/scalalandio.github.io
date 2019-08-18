@@ -15,10 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="scalanand.io3.svg"
-   inkscape:export-filename="/home/dev/Documents/scalanand.io3.svg.png"
-   inkscape:export-xdpi="11.34857"
-   inkscape:export-ydpi="11.34857">
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/dev/Documents/apple-touch-icon.png"
+   inkscape:export-xdpi="18.030001"
+   inkscape:export-ydpi="18.030001">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="468.33907"
-     inkscape:cy="325.62431"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="583.2607"
+     inkscape:cy="606.98398"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -58,14 +58,14 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="135.46667,200.58578"
+       position="135.46667,196.08774"
        orientation="-0.34202014,0.93969262"
        id="guide4555"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="135.46667,181.21418"
+       position="135.46667,176.71627"
        orientation="-0.34202014,0.93969262"
        id="guide4574"
        inkscape:locked="false"
@@ -164,9 +164,9 @@
       <path
          id="path4557-7-5"
          style="fill:#b22222;fill-rule:evenodd;stroke:#303030;stroke-width:6.3499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 187.9239,96.692935 -36.58885,13.329755 c 0.9948,7.94039 -6.91174,16.35337 -15.56215,16.35337 -8.65041,0 -11.39771,-4.42937 -12.60289,-6.08272 l -41.570238,15.09841 m -2.400276,-18.49797 44.439564,-16.15036 c 2.28462,-1.852748 5.22531,-6.011544 12.13384,-5.693249 3.14558,0.144925 2.54853,0.116991 3.14502,0.156628 l 43.7088,-15.957451 c -1.44337,-2.674113 -2.4165,-7.462071 -17.935,-17.803045 -16.80759,-11.199979 -40.30316,-9.706314 -57.7655,0.442637 -17.462342,10.148951 -29.052136,23.469075 -27.726724,55.00484 m 2.400276,18.49797 c 1.485711,17.03493 6.037261,26.12659 9.384709,31.73563 L 188.6712,131.57232 c 1.48713,-9.81017 2.1085,-20.59188 -0.7473,-34.879385 M 135.28292,216.86924 c -11.0588,-0.34615 -27.85733,-18.98617 -35.853143,-33.22373 L 185.05796,152.4794 c -1.50864,33.52766 -37.59244,64.94555 -49.77504,64.38984 z"
+         d="m 150.61363,114.77067 c -1.88728,6.66472 -7.14038,11.78023 -15.78567,12.07786 -5.71448,0.19674 -8.62032,-3.27401 -9.01523,-3.44641 l -44.839406,16.71555 c 1.410787,11.82042 6.663709,21.40067 10.011157,27.00971 L 188.6712,131.57232 c 0.92017,-9.99916 -0.0183,-20.59188 -1.59002,-30.07475 z M 120.22707,106.459 c 1.80266,-7.836666 7.93464,-11.881417 14.5136,-11.943379 1.40937,-0.01327 6.24006,0.355786 9.41476,3.234175 L 183.51402,83.42444 C 178.38164,72.20553 172.04174,65.524926 164.69172,61.446303 147.03121,51.646258 124.38856,51.739989 106.92622,61.88894 89.463878,72.037891 75.580879,88.764665 79.399823,121.31891 Z m 15.05585,110.41024 c -11.0588,-0.34615 -27.85733,-18.98617 -35.853143,-33.22373 L 185.05796,152.4794 c -1.50864,33.52766 -37.59244,64.94555 -49.77504,64.38984 z"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccsccccsccssccccccccc" />
+         sodipodi:nodetypes="cscccccccsccsscccccc" />
     </g>
   </g>
 </svg>
