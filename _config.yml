@@ -1,6 +1,6 @@
 title: Scalaland.io
 description: > # this means to ignore newlines until "baseurl:"
-  Umbrella for Scala-related projects.
+  Umbrella for various Scala projects started by two passionate programmers: [@krzemin](https://github.com/krzemin) and [@MateuszKubuszok](https://github.com/MateuszKubuszok).
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: scalaland #if your site has a twitter account, enter it here
 # Author Settings
 author: scalaland.io # add your name
 author-img: logo.svg # add your photo
-about-author: Umbrella for Scala-related projects. # add description
+about-author: 'Umbrella for various Scala projects started by two passionate programmers: <a href="https://github.com/krzemin">@krzemin</a> and <a href="https://github.com/MateuszKubuszok">@MateuszKubuszok</a>.' # add description
 social-twitter: scalaland # add your Twitter handle
 social-github: scalalandio # add your Github handle
 
