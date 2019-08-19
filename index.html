@@ -10,9 +10,12 @@ layout: main
   <div class="post-content">
     <h2 class="post-title">
       <a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>
+      <a href="https://github.com/scalalandio{{post.url}}"><i class="fa fa-github"></i></a>
+      <span style="float:right;line-height:35px">
       <a class="github-button" href="https://github.com/scalalandio{{post.url}}" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star scalalandio{{post.url}} on GitHub">Star</a>
       <a class="github-button" href="https://github.com/scalalandio{{post.url}}subscription" data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch scalalandio{{post.url}} on GitHub">Watch</a>
       <a class="github-button" href="https://github.com/scalalandio{{post.url}}fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork scalalandio{{post.url}} on GitHub">Fork</a>
+      </span>
     </h2>
     <p>{{ post.content }}</p>
   </div>
