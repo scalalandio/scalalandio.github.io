@@ -18,6 +18,5 @@ The project provides:
 
 See also project [README](https://github.com/scalalandio/endpoints-elm/blob/master/README.md).
 
-[![Build Status](https://travis-ci.org/scalalandio/endpoints-elm.svg?branch=master)](https://travis-ci.org/scalalandio/endpoints-elm)
 [![Maven Central](https://img.shields.io/maven-central/v/io.scalaland/endpoints-elm_2.12.svg)](https://central.sonatype.com/search?q=endpoints-elm)
 [![License](https://img.shields.io/:license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
