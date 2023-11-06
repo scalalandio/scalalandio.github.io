@@ -7,7 +7,7 @@ description: Generic derivation based macros for JsonSchema type class of Scala 
 
 Generic derivation based macros for JsonSchema type class of Scala [endpoints library](https://github.com/julienrf/endpoints).
 
-Endpoints have [generic derivation of json schemas](http://julienrf.github.io/endpoints/algebras/json-schemas.html#generic-derivation-of-json-schemas)
+Endpoints have [generic derivation of json schemas](https://julienrf.github.io/endpoints/algebras/json-schemas.html#generic-derivation-of-json-schemas)
 based on [Shapeless](https://github.com/milessabin/shapeless) library.
 
 This project provides fully compatible, drop-in replacement that doesn't use Shapeless, but Scala macros directly.
